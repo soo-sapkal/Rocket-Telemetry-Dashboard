@@ -33,12 +33,12 @@ This project demonstrates full application of **OOP concepts** in Java:
 | **Polymorphism** | Generic stage classification for different telemetry data sources |
 | **Interfaces** | `Clickable` interface for interactive stage markers |
 
----
-🧾 Usage Workflow
-Step 1: Upload a telemetry CSV file and input the launch date, time, and location.
-Step 2: View the telemetry data table.
-Step 3: The program automatically classifies stages.
-Step 4: Observe the animated rocket flight on a parabolic path.
-Step 5: Click stage markers or control playback.
-Step 6: Overlay weather conditions.
-Step 7: Export a comprehensive PDF mission report.
+---<br>
+🧾 Usage Workflow<br>
+Step 1: Upload a telemetry CSV file and input the launch date, time, and location.<br>
+Step 2: View the telemetry data table.<br>
+Step 3: The program automatically classifies stages.<br>
+Step 4: Observe the animated rocket flight on a parabolic path.<br>
+Step 5: Click stage markers or control playback.<br>
+Step 6: Overlay weather conditions.<br>
+Step 7: Export a comprehensive PDF mission report.<br>
