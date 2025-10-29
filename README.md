@@ -41,4 +41,4 @@ Step 3: The program automatically classifies stages.<br>
 Step 4: Observe the animated rocket flight on a parabolic path.<br>
 Step 5: Click stage markers or control playback.<br>
 Step 6: Overlay weather conditions.<br>
-Step 7: Export a comprehensive PDF mission report.<br>
+Step 7: Export a comprehensive txt mission report.<br>
