@@ -1,7 +1,7 @@
 # 🚀 Rocket Telemetry Dashboard  
 
 An interactive **Java-based Rocket Telemetry Visualization System** that simulates and analyzes rocket flight data using advanced Object-Oriented Programming concepts.  
-The application visualizes a rocket’s flight path, displays telemetry data, classifies flight stages, overlays weather conditions, and generates detailed mission reports.
+The application visualizes a rocket’s flight path, displays telemetry data, classifies flight stages, and generates detailed mission reports.
 
 ---
 
@@ -13,11 +13,10 @@ The application visualizes a rocket’s flight path, displays telemetry data, cl
 - **Stage Classification:** Automatically detects and labels stages such as **Launch**, **Ascent**, **Apogee**, **Descent**, and **Landing**.  
 - **Animated Rocket Path:** Displays a parabolic flight trajectory with smooth animation and stage markers.  
 - **Clickable Stages:** Jump the rocket to specific stages interactively.  
-- **Weather Overlay:** Integrates weather data (wind, temperature, pressure) for the launch location and time.  
 - **Simulation Playback Controls:** Play, pause, rewind, and fast-forward the rocket’s animation.  
 - **Anomaly Alerts:** Highlights unexpected behaviors like premature parachute deployment.  
 - **Comparative Views:** Compare multiple flights or simulation scenarios side-by-side.  
-- **PDF Report Generation:** Creates a detailed post-flight analysis report with telemetry statistics, stage timestamps, and environmental challenges.  
+- **PDF Report Generation:** Creates a detailed post-flight analysis report with telemetry statistics, stage timestamps.  
 
 ---
 
@@ -40,5 +39,4 @@ Step 2: View the telemetry data table.<br>
 Step 3: The program automatically classifies stages.<br>
 Step 4: Observe the animated rocket flight on a parabolic path.<br>
 Step 5: Click stage markers or control playback.<br>
-Step 6: Overlay weather conditions.<br>
-Step 7: Export a comprehensive txt mission report.<br>
+Step 6: Export a comprehensive txt mission report.<br>
